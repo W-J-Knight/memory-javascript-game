@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#grid{
+    width: 450px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between ;
+}
+#grid img{
+    border: black 1px solid;
+}
